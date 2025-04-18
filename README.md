@@ -25,7 +25,7 @@ Layers Used :
     3. Data Layer :
          For handling API calls and caching (repositories, models and data_source)
 
-
+![image alt](https://github.com/JhaAman31/Flutter_assignment/blob/d7e995d8cb54fc05e8ebafd767e61b38cd8bb9ef/WhatsApp%20Image%202025-04-18%20at%2023.35.35_f9829d37.jpg)
 
 Third party packages used :
     1. fpdart             = For managing success and failure (by using Either)
