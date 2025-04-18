@@ -27,6 +27,9 @@ Layers Used :
 
 ![image alt](https://github.com/JhaAman31/Flutter_assignment/blob/d7e995d8cb54fc05e8ebafd767e61b38cd8bb9ef/WhatsApp%20Image%202025-04-18%20at%2023.35.35_f9829d37.jpg)
 ![image alt](https://github.com/JhaAman31/Flutter_assignment/blob/a8f92c26b154496a533cbc49323535057f96455c/WhatsApp%20Image%202025-04-18%20at%2023.35.36_357fa22d.jpg)
+![image alt](https://github.com/JhaAman31/Flutter_assignment/blob/129af667268be22a7add610da69fe186710f2f25/WhatsApp%20Image%202025-04-18%20at%2023.35.36_445fdef8.jpg)
+
+
 Third party packages used :
     1. fpdart             = For managing success and failure (by using Either)
     2. flutter_bloc       = For using Bloc State Management within the application
