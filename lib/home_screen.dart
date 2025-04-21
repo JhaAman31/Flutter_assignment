@@ -10,8 +10,8 @@ import 'core/theme/app_pallete.dart';
 import 'feature/news/presentation/bloc/news_state.dart';
 
 class HomeScreen extends StatefulWidget {
-  final VoidCallback toggleTheme;
-  const HomeScreen({super.key, required this.toggleTheme});
+  // final VoidCallback toggleTheme;
+  const HomeScreen({super.key});
 
   @override
   State<HomeScreen> createState() => _HomeScreenState();
@@ -46,6 +46,7 @@ class _HomeScreenState extends State<HomeScreen> {
           }),
           backgroundColor: AppPallete.gradient3,
           selectedItemColor: AppPallete.whiteColor,
+          unselectedItemColor: AppPallete.greyColor,
           items: const [
             BottomNavigationBarItem(icon: Icon(Icons.newspaper), label: "News"),
             BottomNavigationBarItem(icon: Icon(Icons.bookmark), label: "Saved"),

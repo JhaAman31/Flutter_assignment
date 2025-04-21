@@ -86,7 +86,7 @@ class _MyAppState extends State<MyApp> {
       themeMode: _themeMode,
       home:
           widget.isLoggedIn
-              ? HomeScreen(toggleTheme: toggleTheme)
+              ? HomeScreen()
               : LoginScreen(),
     );
   }
